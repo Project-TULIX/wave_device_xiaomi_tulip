@@ -657,6 +657,8 @@ vendor/lib64/hw/keystore.sdm660.so
 
 # Sensors
 vendor/etc/sensors/sensor_def_qcomdev.conf
+vendor/lib/sensors.ssc.so|2127a224529656d54b15177129ca6783784ccb24
+vendor/lib64/sensors.ssc.so|b53f9d8a5580feb9ca8f9e4efd080f76dc1d1588
 
 # Thermal (Configs)
 vendor/etc/thermal-engine-battery.conf
