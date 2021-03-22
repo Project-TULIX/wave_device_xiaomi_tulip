@@ -38,6 +38,10 @@ on boot
     # Set permission for custom double tap node
     chmod 0660 /proc/tp_gesture
     chown system system /tp_gesture
+    
+    # IR
+    chmod 0660 /dev/spidev7.1
+    chown system system /dev/spidev7.1
 
 
 # Workaround for camera HAL can not read sys property
