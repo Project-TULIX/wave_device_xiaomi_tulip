@@ -49,3 +49,11 @@ TARGET_INCLUDE_STOCK_ACORE := false
 TARGET_INCLUDE_LIVE_WALLPAPERS := false
 TARGET_FACE_UNLOCK_SUPPORTED = true
 
+# PixelPlusUI OFFICIAL
+PRODUCT_PROPERTY_OVERRIDES += \
+ro.ppui.device_name=RedmiNote6Pro \
+ro.ppui.version=3.4 \
+ro.ppui.version_code=Onyx \
+ro.ppui.is_official=true \
+ro.ppui.maintainer_name=Mustafa 
+
