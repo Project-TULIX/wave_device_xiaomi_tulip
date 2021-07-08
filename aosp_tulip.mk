@@ -55,8 +55,8 @@ TARGET_FACE_UNLOCK_SUPPORTED = true
 # PixelPlusUI OFFICIAL
 PRODUCT_PROPERTY_OVERRIDES += \
 ro.ppui.device_name=RedmiNote6Pro \
-ro.ppui.version=3.6 \
-ro.ppui.version_code=Unicorn \
+ro.ppui.version=3.7 \
+ro.ppui.version_code=Ragnarok \
 ro.ppui.is_official=true \
 ro.ppui.maintainer_name=Mustafa 
 
