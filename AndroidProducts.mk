@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_tulip.mk
+    $(LOCAL_DIR)/wave_tulip.mk
 
 COMMON_LUNCH_CHOICES := \
-   aosp_tulip-user \
-   aosp_tulip-userdebug \
-   aosp_tulip-eng
+   wave_tulip-user \
+   wave_tulip-userdebug \
+   wave_tulip-eng
